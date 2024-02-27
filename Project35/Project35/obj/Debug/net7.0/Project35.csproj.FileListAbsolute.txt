@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\bin\Debug\net7.0\Project35.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\bin\Debug\net7.0\Project35.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\bin\Debug\net7.0\Project35.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\bin\Debug\net7.0\Project35.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\bin\Debug\net7.0\Project35.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\refint\Project35.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\Project35.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project35\Project35\obj\Debug\net7.0\ref\Project35.dll

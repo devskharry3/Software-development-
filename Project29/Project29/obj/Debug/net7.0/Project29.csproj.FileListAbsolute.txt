@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\bin\Debug\net7.0\Project29.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\bin\Debug\net7.0\Project29.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\bin\Debug\net7.0\Project29.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\bin\Debug\net7.0\Project29.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\bin\Debug\net7.0\Project29.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\refint\Project29.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\Project29.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project29\Project29\obj\Debug\net7.0\ref\Project29.dll

@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\bin\Debug\net7.0\Project33.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\bin\Debug\net7.0\Project33.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\bin\Debug\net7.0\Project33.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\bin\Debug\net7.0\Project33.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\bin\Debug\net7.0\Project33.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\refint\Project33.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\Project33.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project33\Project33\obj\Debug\net7.0\ref\Project33.dll

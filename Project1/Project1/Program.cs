@@ -17,7 +17,7 @@ class Program
 
         //create a string variable ande ask the user for some input 
         string str = Console.ReadLine(); 
-        Console.WriteLine("why, hello there" + str);
+        Console.WriteLine("welcome, nice having you here  " + str);
     } 
 }
 

@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\bin\Debug\net7.0\Project21.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\bin\Debug\net7.0\Project21.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\bin\Debug\net7.0\Project21.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\bin\Debug\net7.0\Project21.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\bin\Debug\net7.0\Project21.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\refint\Project21.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\Project21.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project21\Project21\obj\Debug\net7.0\ref\Project21.dll

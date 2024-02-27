@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\bin\Debug\net7.0\Project14.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\bin\Debug\net7.0\Project14.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\bin\Debug\net7.0\Project14.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\bin\Debug\net7.0\Project14.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\bin\Debug\net7.0\Project14.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\refint\Project14.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\Project14.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project14\Project14\obj\Debug\net7.0\ref\Project14.dll

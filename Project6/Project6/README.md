@@ -1,0 +1,1 @@
+This code is talking about the uses of ternary operator this is a short hand way of if and else condition statement 

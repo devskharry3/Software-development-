@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\bin\Debug\net7.0\Project24.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\bin\Debug\net7.0\Project24.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\bin\Debug\net7.0\Project24.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\bin\Debug\net7.0\Project24.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\bin\Debug\net7.0\Project24.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\refint\Project24.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\Project24.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project24\Project24\obj\Debug\net7.0\ref\Project24.dll

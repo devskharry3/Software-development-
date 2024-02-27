@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\bin\Debug\net7.0\Project18.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\bin\Debug\net7.0\Project18.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\bin\Debug\net7.0\Project18.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\bin\Debug\net7.0\Project18.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\bin\Debug\net7.0\Project18.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\refint\Project18.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\Project18.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project18\Project18\obj\Debug\net7.0\ref\Project18.dll

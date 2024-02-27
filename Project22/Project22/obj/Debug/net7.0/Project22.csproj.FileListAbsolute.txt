@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\bin\Debug\net7.0\Project22.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\bin\Debug\net7.0\Project22.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\bin\Debug\net7.0\Project22.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\bin\Debug\net7.0\Project22.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\bin\Debug\net7.0\Project22.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\refint\Project22.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\Project22.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project22\Project22\obj\Debug\net7.0\ref\Project22.dll

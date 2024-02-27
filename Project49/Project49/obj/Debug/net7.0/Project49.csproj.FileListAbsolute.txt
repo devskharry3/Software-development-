@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\bin\Debug\net7.0\Project49.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\bin\Debug\net7.0\Project49.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\bin\Debug\net7.0\Project49.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\bin\Debug\net7.0\Project49.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\bin\Debug\net7.0\Project49.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\refint\Project49.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\Project49.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project49\Project49\obj\Debug\net7.0\ref\Project49.dll

@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\bin\Debug\net7.0\Project36.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\bin\Debug\net7.0\Project36.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\bin\Debug\net7.0\Project36.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\bin\Debug\net7.0\Project36.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\bin\Debug\net7.0\Project36.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\refint\Project36.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\Project36.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project36\Project36\obj\Debug\net7.0\ref\Project36.dll

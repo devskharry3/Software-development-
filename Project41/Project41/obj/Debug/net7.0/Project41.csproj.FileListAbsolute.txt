@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\bin\Debug\net7.0\Project41.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\bin\Debug\net7.0\Project41.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\bin\Debug\net7.0\Project41.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\bin\Debug\net7.0\Project41.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\bin\Debug\net7.0\Project41.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\refint\Project41.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\Project41.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project41\Project41\obj\Debug\net7.0\ref\Project41.dll

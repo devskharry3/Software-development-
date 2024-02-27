@@ -1,0 +1,15 @@
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\bin\Debug\net7.0\Project40.exe
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\bin\Debug\net7.0\Project40.deps.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\bin\Debug\net7.0\Project40.runtimeconfig.json
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\bin\Debug\net7.0\Project40.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\bin\Debug\net7.0\Project40.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.csproj.AssemblyReference.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.AssemblyInfoInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.AssemblyInfo.cs
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.csproj.CoreCompileInputs.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\refint\Project40.dll
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.pdb
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\Project40.genruntimeconfig.cache
+C:\Users\OSHO SUNKANMI\Documents\CSHARP\Project40\Project40\obj\Debug\net7.0\ref\Project40.dll
