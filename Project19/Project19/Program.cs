@@ -17,7 +17,8 @@ namespace NumberAnalyzer
             while (true)
             {
                 Console.Write("Enter a number: ");
-                int number = int.Parse(Console.ReadLine());
+                int number =  int.Parse(Console.ReadLine());
+
 
                 if (number < 0)
                 {

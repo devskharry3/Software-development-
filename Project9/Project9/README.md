@@ -1,0 +1,1 @@
+This code is talking about how to use switch in written codes

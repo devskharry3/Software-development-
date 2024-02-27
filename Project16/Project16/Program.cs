@@ -49,10 +49,10 @@ class Program
         {
             if (IsPalindrome(num) && IsPrime(num))
             {
-                count++;
                 Console.WriteLine($"Prime Palindrome {count}: {num}");
             }
             num++;
         }
     }
 }
+
