@@ -34,7 +34,7 @@ namespace RefAndOutParams {
         }
 
         static void Main(string[] args) {
-            int val1 = 10;
+            int val1 = 30;
             int val2 = 20;
 
             //functions don't normally modify value arguments

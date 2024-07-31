@@ -48,6 +48,6 @@ class Program {
         int area3 = rect3.GetArea();
 
         //print the area to the console
-        Console.WriteLine("Area of rectangle 3; " + area3);
+        Console.WriteLine("Area of rectangle 3: " + area3);
     }
 }

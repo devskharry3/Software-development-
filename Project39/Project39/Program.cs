@@ -4,7 +4,7 @@ using System.Text;
 //IsPalindrome returns a tuple of two values
 //the function name is "IsPalindrome"
 //the bool is going to tell us whether the inserted string is a Palindrome or not 
-//and the integeer is going to tell us the kength of the string if it is a palindrome
+//and the integer is going to tell us the length of the string if it is a palindrome
 // and it output "0" if it is not a palindrome at all
 (bool, int) IsPalindrome(string thestr) {
     string teststr;

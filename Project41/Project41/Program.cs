@@ -18,7 +18,7 @@ class Program {
         myObject.value = 5; //Accessing object memeber using dot notation
         myObject.printValue();
 
-        GC.Collect(); //Ftreeing up the memory allocated for the object using garbage collection
+        GC.Collect(); //Freeing up the memory allocated for the object using garbage collection
 
         Console.ReadLine();
     }

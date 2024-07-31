@@ -1,0 +1,3 @@
+This code is also an object oriented propgramming set of codes which is about setting values and pointing a code to another using the same class name for them 
+the first value iniated to this code was 5 but later on 
+As the another object code line was written it is said to be pointing to the myobject code so the value 10 given to another object is also applied to the my object previous code which both output of the codes will be value of 10

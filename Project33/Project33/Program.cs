@@ -25,6 +25,13 @@ class Program {
 
     }
 
+    //function to calculate the area of a square 
+
+    float CalculateSquareArea(float length, float breadth) {
+        float area = length^2 * breadth^2;
+        return area;
+    }
+
     static void Main(string[] args) {
         Program program = new Program();
 
@@ -41,6 +48,12 @@ Console.WriteLine($"{miles2} miles is approximately {km2} kilometres.");
 float km3 = 100.0f;
 float miles3 = program.KmToMiles(km3);
 Console.WriteLine($"{km3} kilometres is approxiamtely {miles3} miles.");
+
+//My Addition : convert miles to kilometres
+float miles4 =  7.0f;
+float km4 = program.MilesToKm(miles4);
+
+Console.WriteLine($"{miles4} miles is approximately {km4} kilometres.");
 
 //Example 3: Print message with prefixes
 program.PrintWithPrefix("INFO", "This is an informational message.");
