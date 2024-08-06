@@ -18,7 +18,7 @@ namespace Operators
         //d = x/y
         // e = d* x
         // Console.WriteLine(e) 
-        Console.WriteLine((x/y) * x);
+        // Console.WriteLine((x/y) * x);
         Console.WriteLine(a+b);
 
 
